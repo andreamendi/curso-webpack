@@ -1,0 +1,8 @@
+{
+  "presents": [
+    "bablel/preset-env"
+  ],
+  "plugins": [
+    "@babel/plugin-transform-runtime"
+  ]
+}
